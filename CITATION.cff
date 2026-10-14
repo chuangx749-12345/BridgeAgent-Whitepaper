@@ -1,8 +1,8 @@
 cff-version: 1.2.0
 message: "If you use this work, please cite it as below."
 authors:
-  - family-names: "omichi"
-    given-names: "ninki"
+  - family-names: "lu"
+    given-names: "jian"
 title: "BridgeAgent: A Cross-Cultural Financial Semantic Alignment Architecture for AI Trading Agents"
 version: 1.0.0
 date-released: 2026-10-13
